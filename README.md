@@ -9,5 +9,6 @@ You can reach me via:
 - 📩 - contato@lfnandoc.net
 - 💼 - https://linkedin.com/in/lfnandoc/
 
-My personal website
-https://lfnandoc.net
+My personal website:
+
+- 🌎 - https://lfnandoc.net
