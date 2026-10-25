@@ -1,14 +1,15 @@
-## Hello there! I'm Nando :)
+## Hi, I'm Nando 👋
 
-I'm a software developer always working on improving my skills.
+Senior Software Engineer at **Bionexo**, building C#/.NET integrations that move healthcare supply data between buyers and suppliers.
 
-Programming languages are not a barrier for me. I love experimenting! My main language at work today is C# (with a dash of Python on some repos), but on my github you'll find Go, Javascript, and maybe more.
+**How I work in 2026:** I design the system, AI agents write a lot of the code, and I review, test and own what ships. At work that means Claude Code skills and read-only specialist subagents for logs, guarded SQL and local stacks, so the squad debugs integrations faster without giving an agent the keys to production.
 
-You can reach me via:
+- 🤖 Agentic dev workflows: routing, guardrails, human-in-the-loop review
+- 🛠️ Side projects shipped end to end with agents, under my review
+- 🎮 Game modder at heart
 
-- 📩 - contato@lfnandoc.net
-- 💼 - https://linkedin.com/in/lfnandoc/
+**Stack:** C# · .NET · Python · TypeScript · Docker · SQL · Claude Code / MCP
 
-My personal website (not always 100% up to date):
+Most of my work is private, but a few repos are public. Feel free to look around =)
 
-- 🌎 - https://lfnandoc.net
+📩 contato@lfnandoc.net · 💼 [LinkedIn](https://linkedin.com/in/lfnandoc) · 🌎 [lfnandoc.net](https://lfnandoc.net)
