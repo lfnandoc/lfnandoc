@@ -1,15 +1,15 @@
-## Hi, I'm Nando 👋
+Hi, I’m Nando 👋
 
-Senior Software Engineer at **Bionexo**, building C#/.NET integrations that move healthcare supply data between buyers and suppliers.
+Senior Software Engineer at Bionexo, building C#/.NET integrations that connect healthcare buyers and suppliers.
 
-**How I work in 2026:** I design the system, AI agents write a lot of the code, and I review, test and own what ships. At work that means Claude Code skills and read-only specialist subagents for logs, guarded SQL and local stacks, so the squad debugs integrations faster without giving an agent the keys to production.
+I design systems and use AI agents for much of the implementation, then review, test, and own what ships. At work, that means Claude Code skills and read-only specialist subagents for logs, guarded SQL, and local stacks, so the team can debug integrations faster without giving agents production access.
 
-- 🤖 Agentic dev workflows: routing, guardrails, human-in-the-loop review
-- 🛠️ Side projects shipped end to end with agents, under my review
-- 🎮 Game modder at heart
+🤖 Agentic dev workflows: routing, guardrails, human-in-the-loop review
+🛠️ Side projects built end to end with agents, under my review
+🎮 Game modder at heart
 
-**Stack:** C# · .NET · Python · TypeScript · Docker · SQL · Claude Code / MCP
+Stack: C# · .NET · Python · TypeScript · Docker · SQL · Claude Code / MCP
 
-Most of my work is private, but a few repos are public. Feel free to look around =)
+Most of my work is private, but a few repos are public. Feel free to look around!
 
-📩 contato@lfnandoc.net · 💼 [LinkedIn](https://linkedin.com/in/lfnandoc) · 🌎 [lfnandoc.net](https://lfnandoc.net)
+📩 contato@lfnandoc.net · 💼 LinkedIn · 🌎 lfnandoc.net
